@@ -1,0 +1,4 @@
+view{
+  /*使用工共样式中定义的样式变量*/
+  color: var(--themeColor);
+}
