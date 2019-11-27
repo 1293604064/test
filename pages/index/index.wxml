@@ -1,3 +1,7 @@
-<view>首页
-  <text class="iconfont icon-shoucang1"></text>
+<view class="pyg_index">
+<!-- 开始 -->
+<SearchInput>
+</SearchInput>
+<!-- 结束 -->
+<swiper></swiper>
 </view>
