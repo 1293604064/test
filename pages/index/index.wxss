@@ -1,5 +1,8 @@
-view{
-  /*使用工共样式中定义的样式变量*/
-  /* color: var(--themeColor); */
-  
+.index_swiper{
+   width:100%;
+   width: 750rpx;
+   height: 340rpx;
 }
+image{
+    width:100%;
+  }
